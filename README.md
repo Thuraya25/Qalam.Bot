@@ -24,7 +24,7 @@
 - **python-telegram-bot**: For interacting with the Telegram API.
 - **language_tool_python**: For grammar checking and error correction.
 - **nltk**: For word definitions and language processing.
-- **spaCy**: For advanced tokenization and lemmatization.
+- **spaCy**: For part of speech tagging.
 - **asyncio**: For asynchronous bot functionality.
 ---
 
@@ -45,7 +45,7 @@
 ---
 
 ### 3. **Define Word Function**  
-   The `/define` command retrieves definitions, parts of speech, and example usage of words.
+   The `/define` command retrieves definitions, parts of speech,synonyms and example sentences.
 
    <img src="images/define%20.png" alt="Define Function" width="50%" style="display: block; margin: 0 auto;"/>
 
