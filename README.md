@@ -50,7 +50,12 @@
    <img src="images/define%20.png" alt="Define Function" width="50%" style="display: block; margin: 0 auto;"/>
 
 ---
+## **Future Improvements**
 
+- *Multilingual Support*: *We plan to add support for multiple languages, including Arabic, in future versions.*  
+- *Advanced Grammar Checking*: *Integrate more sophisticated grammar-checking models or APIs for better accuracy.*  
+- *User Feedback*: *Implement a feedback system to help improve the bot's suggestions over time.*
+- *Deployment*: Deploy the bot to a cloud platform to make it publicly accessible and available 24/7.*
 ---
 
 ## Demo Video
